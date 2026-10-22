@@ -1,7 +1,4 @@
-# Project History
-
-This documentation project started as a simple collection of notes about collaborative workflows. Over time, it evolved into a controlled environment for practicing real version control techniques.
-
-Initially, only a single contributor updated these files. As more people joined, it became clear that branches, pull requests, and reviews were necessary to keep the history organized and understandable.
-
-Today, the repository is used by small groups to simulate how a team would maintain documentation over multiple iterations.This history section has been updated as part of collaborative work.
+This section tracks the evolution of the project over time.
+Initially created as a simple template, the project grew as contributors added guidelines for setup, branch management, and review processes.
+Each update reflects a step toward building clearer and more consistent documentation practices.
+This history section has been updated as part of collaborative work.
